@@ -4,7 +4,6 @@
         <img src="https://images.pietrzakadrian.com/logo.png" alt="Bank Application"/>
     </a>
 
-[**Live Preview**](https://bank.pietrzakadrian.com) | [**Swagger Documentation**](https://api.pietrzakadrian.com/documentation) | [**Contact the developer**](mailto:contact@pietrzakadrian.com)
 
  <hr>
 <h4>
@@ -56,6 +55,3 @@ cd bank
 # 3. Initialize and clone attached submodules for backend and frontend app
 git submodule init && git submodule update
 ```
-
-<h4>License</h4>
-This project is licensed under the MIT license. Copyright (c) 2019-2020 Adrian Pietrzak.
